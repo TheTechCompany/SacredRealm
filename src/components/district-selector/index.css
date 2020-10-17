@@ -1,0 +1,11 @@
+.district-list{
+  flex: 1;
+  display: flex;
+}
+
+.district{
+  height: 100px;
+  width: 100px;
+  background: red;
+
+}
